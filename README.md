@@ -56,3 +56,5 @@ Round off total				~ 8.75k INR
 ---
 
 ### Total: $95
+### Print Legion Shipping: $5
+### Grand Total: $100
