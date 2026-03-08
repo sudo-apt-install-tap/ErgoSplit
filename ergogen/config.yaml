@@ -1,0 +1,59 @@
+points:
+  key:
+    padding: cy
+  zones:
+    matrix:
+      anchor:
+        shift: [150, -150]
+      rows:
+        bottom:
+        home:
+        mid:
+        top:
+      columns:
+        pinky:
+        ring:
+          key.stagger: 8
+        middle:
+          key.stagger: 6
+        index:
+          key.stagger: -5
+    thumb:
+      anchor:
+        ref: matrix_index_bottom
+        shift: [20,-10]
+        rotate: -15
+      rows:
+      columns:
+        shift:
+        control:
+          key.stagger: -3
+          key.rotate: -12
+          key.shift: [2,-3]
+  mirror:
+    ref: thumb_control
+    distance: 90
+outlines:
+  _raw:
+    - what: rectangle
+      where: true
+      bound: true
+      asym: left
+      size: [27,22]
+      corner: 1
+  _first:
+    - what: outline
+      name: _raw
+      fillet: 3
+  _second:
+    - what: outline
+      name: _first
+      fillet: 2
+  _third:
+    - what: outline
+      name: _second
+      fillet: 1
+  bottom:
+    - what: outline
+      name: _third
+      fillet: 0.5
