@@ -18,7 +18,7 @@ I wanted a split keyboard thats low profile and looks cool
 ---
 
 ### How?
-Use the firmware in (FIRMWARE)[https://github.com/sudo-apt-install-tap/ErgoSplit/tree/main/FIRMWARE]
+Use the firmware in [FIRMWARE](https://github.com/sudo-apt-install-tap/ErgoSplit/tree/main/FIRMWARE) .
 
 ---
 
@@ -40,5 +40,6 @@ CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb
 ---
 
 ## BOM
+
 
 
