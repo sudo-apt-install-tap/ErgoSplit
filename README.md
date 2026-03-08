@@ -39,6 +39,16 @@ CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb
 
 ---
 
+<img width="916" height="583" alt="Left sch" src="https://github.com/user-attachments/assets/5bdfeef9-871d-4b22-b1a7-2315f3671076" />
+<br> Left Sch
+
+---
+
+<img width="916" height="583" alt="Right sch" src="https://github.com/user-attachments/assets/98b28b08-e6d7-4dc4-8e59-e3be6b2ee574" />
+<br> Right Sch
+
+---
+
 ## BOM
 
 Name	| Quantity |	Price ( 1 UNIT) |	Price Total |	Runing Total | Link
@@ -58,4 +68,5 @@ Round off total				~ 8.75k INR
 ### Total: $95
 ### Print Legion Shipping: $5
 ### Grand Total: $100
+
 
