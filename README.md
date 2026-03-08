@@ -43,3 +43,14 @@ CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb
 
 
 
+Name	| Quantity |	Price ( 1 UNIT) |	Price Total |	Runing Total | Link
+-------|-------|-------|-------|-------|-------
+MCU |	2 |	₹1,160.00 |	₹2,320.00 |	₹2,320.00 |	https://robu.in/product/seeed-studio-xiao-ble-nrf52840/
+DIODES |	40 |	₹1.05 |	₹42.00 |	₹2,362.00 |	https://robu.in/product/mm1z27-slkor-sod-123-zener-diodes-rohs/
+Hotswap Socket (Pack of 10) |	4 |	145 | 	₹580.00 |	₹2,942.00 |	https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets?variant=48049369907478
+Kailh Choc V1 (Pack of 10) |	4 |	₹480.00 |	₹1,920.00 |	₹4,862.00 |	https://neomacro.in/products/kailh-choc-v1-switches?variant=48049336025366
+Keycaps 1U (Pack of 10) |	4 |	₹350.00 |	₹1,400.00 |	₹6,262.00 |	https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=50664114913558
+Homing Keys (Pack of 2) |	1 |	₹70.00 |	₹70.00 |	₹6,332.00 |	https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=48049351590166
+PCB |	5 |	₹470.00 |	₹2,350.00 |	₹8,682.00 |	https://jlcpcb.com/
+Total |	--- |	---	| --- |	₹8,682.00	| ---
+Round off total				~ 8.75k INR
