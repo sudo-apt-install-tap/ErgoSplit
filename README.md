@@ -30,10 +30,15 @@ CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb
 ## Images
 
 <img width="404" height="240" alt="Assembly" src="https://github.com/user-attachments/assets/1df84397-5014-4359-8da4-4264b0ae7316" />
-<br> Full render
+<br> Full render<br>
+
+---
 
 <img width="865" height="479" alt="PCB" src="https://github.com/user-attachments/assets/42762235-0ca3-4956-8537-1e5e85a993e2" />
 <br> PCB
 
+---
+
 ## BOM
+
 
