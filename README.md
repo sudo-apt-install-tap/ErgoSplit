@@ -41,8 +41,6 @@ CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb
 
 ## BOM
 
-
-
 Name	| Quantity |	Price ( 1 UNIT) |	Price Total |	Runing Total | Link
 -------|-------|-------|-------|-------|-------
 MCU |	2 |	₹1,160.00 |	₹2,320.00 |	₹2,320.00 |	https://robu.in/product/seeed-studio-xiao-ble-nrf52840/
@@ -54,3 +52,7 @@ Homing Keys (Pack of 2) |	1 |	₹70.00 |	₹70.00 |	₹6,332.00 |	https://neomac
 PCB |	5 |	₹470.00 |	₹2,350.00 |	₹8,682.00 |	https://jlcpcb.com/
 Total |	--- |	---	| --- |	₹8,682.00	| ---
 Round off total				~ 8.75k INR
+
+---
+
+### Total: $95
