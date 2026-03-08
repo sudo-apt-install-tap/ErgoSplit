@@ -18,7 +18,7 @@ I wanted a split keyboard thats low profile and looks cool
 ---
 
 ### How?
-Use the firmware in [FIRMWARE](https://github.com/sudo-apt-install-tap/ErgoSplit/tree/main/FIRMWARE) .
+Use the firmware in [FIRMWARE](https://github.com/sudo-apt-install-tap/ErgoSplit/tree/main/FIRMWARE) . I've used circuitpy and kmk to do it!
 
 ---
 
@@ -58,3 +58,4 @@ Round off total				~ 8.75k INR
 ### Total: $95
 ### Print Legion Shipping: $5
 ### Grand Total: $100
+
