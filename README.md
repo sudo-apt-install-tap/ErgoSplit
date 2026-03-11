@@ -26,7 +26,8 @@ Use the firmware in [FIRMWARE](https://github.com/sudo-apt-install-tap/ErgoSplit
 CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb83ef3a9c97b/w/872555f6aab0d85ae4c614f8/e/704b399ae3f1c5f397311600?renderMode=1&tangentEdgeStyle=2&uiState=69acfbf36f602ba6f013c85b)
 
 ## Images
-
+<div align="center">
+  
 <img width="404" height="240" alt="Assembly" src="https://github.com/user-attachments/assets/1df84397-5014-4359-8da4-4264b0ae7316" />
 <br> Full render<br>
 
@@ -66,4 +67,6 @@ Round off total				~ 8.75k INR
 ### Grand Total: $100
 
 
+
+</div>
 
