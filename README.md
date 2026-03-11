@@ -1,31 +1,29 @@
-# **ErgoSplit**
+<div align="center">
 
-<img width="816" height="479" alt="Assembly" src="https://github.com/user-attachments/assets/23405c25-0659-4d94-baca-fc7d211f79e1" /><br>
+<img width="272" height="159.6" alt="Assembly" src="https://github.com/user-attachments/assets/23405c25-0659-4d94-baca-fc7d211f79e1" /><br>
 
-**A low-profile split!**
+<h1>
+  <b>
+    ErgoSplit 
+  </b> 
+</h1>
 
----
+<h3> <b> A low-profile split-keyboard! </b> </h1>
+
+</div>
 
 ## **Overview**
 
 A split keyboard with a minimalist low profile design!! Symmetrical for easy printing.
 
----
-
 ### Why?
 I wanted a split keyboard thats low profile and looks cool
-
----
 
 ### How?
 Use the firmware in [FIRMWARE](https://github.com/sudo-apt-install-tap/ErgoSplit/tree/main/FIRMWARE) . I've used circuitpy and kmk to do it!
 
----
-
 ## CAD
 CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb83ef3a9c97b/w/872555f6aab0d85ae4c614f8/e/704b399ae3f1c5f397311600?renderMode=1&tangentEdgeStyle=2&uiState=69acfbf36f602ba6f013c85b)
-
----
 
 ## Images
 
@@ -63,10 +61,9 @@ PCB |	5 |	₹470.00 |	₹2,350.00 |	₹8,682.00 |	https://jlcpcb.com/
 Total |	--- |	---	| --- |	₹8,682.00	| ---
 Round off total				~ 8.75k INR
 
----
-
 ### Total: $95
 ### Print Legion Shipping: $5
 ### Grand Total: $100
+
 
 
