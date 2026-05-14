@@ -46,7 +46,22 @@ CAD files are available at [CAD](https://cad.onshape.com/documents/b054daab3e6eb
 <img width="916" height="583" alt="Right sch" src="https://github.com/user-attachments/assets/98b28b08-e6d7-4dc4-8e59-e3be6b2ee574" />
 <br> Right Sch
 
----
+### Build Images
+
+![image](https://stasis.hackclub-assets.com/images/1778763646486-5rtbjs.png)
+
+Left Build!
+
+![image](https://stasis.hackclub-assets.com/images/1778763666098-hkn9t5.png)
+
+Right Build!
+
+![image](https://stasis.hackclub-assets.com/images/1778763687266-l27p2y.png)
+
+Togather!
+
+### VIDEO
+[title](https://youtu.be/x2c1Rt32prMl)
 
 ## BOM
 
